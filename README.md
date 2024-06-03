@@ -12,7 +12,7 @@ A Discord bot powered by OpenAI API and built with npm
 - Clone the repo
 
 ```sh
-git clone 
+git clone https://github.com/Myself-Deep/BillaDon.git
 ```
 
 - Change directory to the cloned path
