@@ -50,19 +50,20 @@ cd BillaDon
 ```
 
 - Turn `ON` PRESENCE INTENT, SERVER MEMBERS INTENT, MESSAGE CONTENT INTENT
-![image](https://github.com/Myself-Deep/BillaDon/assets/168259354/fbeeb337-7347-44f6-aac7-243ebdef5670)
+<img height="250" width="620" alt="image" src="https://github.com/Myself-Deep/BillaDon/assets/168259354/fbeeb337-7347-44f6-aac7-243ebdef5670">
 
 - Invite your bot to your server via OAuth2 URL Generator
-![image](https://github.com/Myself-Deep/BillaDon/assets/168259354/0d806a85-4c4d-45cd-9c24-ec2e0fd1b940)
+<img height="50" width="550" alt="image" src="https://github.com/Myself-Deep/BillaDon/assets/168259354/0d806a85-4c4d-45cd-9c24-ec2e0fd1b940">
+
 
 ## Channel Connection
 
 - Go Discord setting turn `developer mode` on
 - `Copy Channel ID` where you want to recieve the message
-![image](https://github.com/Myself-Deep/BillaDon/assets/168259354/9d3344b6-14d2-4c88-91d8-ebb8ab69a395)
+<img height="390" width="380" alt="image" src="https://github.com/Myself-Deep/BillaDon/assets/168259354/9d3344b6-14d2-4c88-91d8-ebb8ab69a395">
 
 - Enter your channel ID
-![image](https://github.com/Myself-Deep/BillaDon/assets/168259354/27c2112a-f2e9-4fe4-ba4e-52d43f5aff21)
+<img height="55" width="470" alt="image" src="https://github.com/Myself-Deep/BillaDon/assets/168259354/27c2112a-f2e9-4fe4-ba4e-52d43f5aff21">
 
 
 ## Usage
